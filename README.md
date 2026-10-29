@@ -10,6 +10,4 @@ AI is the most powerful tool I've had for it. I use it to connect systems, to sh
 in hours, and to run agents on real infrastructure. It's also the first tool I don't fully
 trust, so the guardrails come first.
 
-I write about it at [michaljonik.com](https://michaljonik.com).
-
-[LinkedIn](https://www.linkedin.com/in/michaljonik/)
+I write about it at [michaljonik.com](https://michaljonik.com).  [LinkedIn](https://www.linkedin.com/in/michaljonik/)
